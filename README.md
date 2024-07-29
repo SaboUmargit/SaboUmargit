@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Umar Sabo
+- 👋 Hi, I’m Umar Sabo (@ 18u15u0777)
 - 👀 I’m interested in AI, data science, web dev
 - 🌱 I’m currently learning AI, data science 
 - 💞️ I’m looking to collaborate on projects related to AI powered- software dev
